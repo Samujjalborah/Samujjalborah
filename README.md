@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samujjalborah
+- 👋 Hi, I’m @Samujjal Borah 
 - 👀 I’m interested in Python programming 
 - 🌱 I’m currently learning Computational biology and bioinformatics 
 - 💞️ I’m looking to collaborate on Python related projects 
